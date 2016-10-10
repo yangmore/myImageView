@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ android:background="#fff"
+    tools:context=".MainActivity" >
+
+    
+    
+
+     
+        <com.example.myimageview.MyImageView
+            android:background="@drawable/one"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/two"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/three"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/four"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/five"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/six"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/seven"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/eight"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/nine"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            android:scaleType="matrix" 
+           
+            />   <com.example.myimageview.MyImageView
+             android:background="@drawable/ten"
+         android:layout_centerInParent="true"
+            android:id="@+id/hairIv"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            
+           
+            />
+
+</RelativeLayout>
